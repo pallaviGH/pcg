@@ -591,9 +591,12 @@ footer span.copyright {
   /*text-transform: uppercase;*/
   text-transform: none;
 }
+footer span.created {
+  font-size: 11px;
+}
 footer ul.quicklinks {
   margin-bottom: 0;
-  line-height: 40px;
+  /*line-height: 40px;*/
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   /*text-transform: uppercase;*/
   text-transform: none;
