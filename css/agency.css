@@ -586,10 +586,16 @@ footer {
   text-align: center;
 }
 footer span.copyright {
-  line-height: 40px;
+  /*line-height: 40px;*/
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   /*text-transform: uppercase;*/
   text-transform: none;
+}
+span.created {
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  /*text-transform: uppercase;*/
+  text-transform: none;
+  font-size: 11px;
 }
 footer ul.quicklinks {
   margin-bottom: 0;
